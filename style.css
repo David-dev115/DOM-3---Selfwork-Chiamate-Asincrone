@@ -1,0 +1,68 @@
+
+
+body{
+    font-family: "Inconsolata", monospace;
+    
+}
+
+.quadrante{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 900px;
+    background-color: rgb(228, 222, 218);
+    align-items: center;
+    
+    
+    
+}
+
+.crono{
+    
+    width: 800px;
+    height: 800px;
+    border: 10px solid rgb(110, 131, 145);
+    border-radius: 50%;
+    background-color: rgb(203, 217, 228);
+    
+    
+}
+
+.bottoni{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.disp_output{
+    
+    display: flex;
+    justify-content: center;
+}
+
+
+.space_1{
+    height: 80px;
+}
+
+.space_2{
+    height: 50px;
+}
+
+.space_3{
+    height: 200px;
+}
+
+
+#timer{
+    
+    font-size:xx-large;
+    font-weight: bold;
+}
+
+
+.disp_input{
+        
+    display: flex;
+    justify-content: center;
+}
