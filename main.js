@@ -64,3 +64,4 @@ btnReset.addEventListener( `click`, ()=> {
     timer.innerHTML = ``;
         
 } );
+
